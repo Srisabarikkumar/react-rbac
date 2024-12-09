@@ -8,7 +8,7 @@ This is a repository of RBAC implementation, built using React.
 * Tailwind css
 * React context for state management
 
-To set up and run the project:
+## To set up and run the project:
 
 1. Install node modules
 
