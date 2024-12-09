@@ -3,7 +3,6 @@ import { Formik, Form, Field, ErrorMessage } from "formik";
 import * as Yup from "yup";
 import { useAdminContext } from "../context/AdminContext";
 import Modal from "./Modal";
-// import PermissionSelector from './PermissionSelector';
 
 // Validation Schema
 const RoleSchema = Yup.object().shape({
